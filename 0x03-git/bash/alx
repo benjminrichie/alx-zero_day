@@ -1,6 +1,6 @@
 #!/bin/bash
-<<<<<<< 
+
 echo "ALX School is so cool to be"
-=======
+
 echo "ALX School is good"
->>>>>>> update_script
+update_script
